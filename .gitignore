@@ -1,0 +1,18 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build artifacts
+frontend/build/
+backend/dist/
+
+# Ignore Docker files
+.dockerignore
+.dockerenv
+
+# Ignore IDE files
+.idea/
+
+# Ignore logs and temp files
+logs/
+*.log
+*.tmp
